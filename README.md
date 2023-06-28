@@ -6,7 +6,7 @@ This repository contains the code and resources for predicting chronic kidney di
 
 ## Dataset
 
-The dataset used in this project is sourced from the ICL ML repository and focuses on chronic kidney disease. It contains various features related to patients' health conditions and lab test results. The dataset provides the necessary information for training and evaluating the predictive models.
+The dataset used in this project is sourced from the UCL ML repository and focuses on chronic kidney disease. It contains various features related to patients' health conditions and lab test results. The dataset provides the necessary information for training and evaluating the predictive models.
 
 ## Project Overview
 
