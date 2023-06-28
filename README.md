@@ -33,14 +33,14 @@ The dataset used in this project is sourced from the UCL ML repository and focus
 git clone https://github.com/yRaghavSrivastava25/chronic-kidney-disease-prediction.git
 
 
-2. Install the required dependencies:
+2. Download the dataset:
 
-pip install -r requirements.txt
+https://github.com/RaghavSrivastava25/Chronic-Kidney-Disease-Prediction/blob/main/chronic%2Bkidney%2Bdisease.zip
 
 
 3. Run the main script:
 
-Kidney_Disease_Prediction.ipynb
+https://github.com/RaghavSrivastava25/Chronic-Kidney-Disease-Prediction/blob/main/Kidney_Disease_Prediction.ipynb
 
 This will execute the entire thing, including data preprocessing, model training, evaluation, and visualization.
 
